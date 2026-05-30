@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohanram%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20%26%20Mobile%20App%20Developer%20%7C%20Building%20Efficient%2C%20User-Friendly%20Apps&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohanram%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20%26%20Mobile%20App%20Developer%20%7C%20Building%20Efficient%2C%20User-Friendly%20Apps&descAlignY=62&descSize=16" width="100%" alt="header"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Mohanram+%F0%9F%91%8B;Full-Stack+Web+%2B+Mobile+Developer;Java+%7C+React.js+%7C+Flutter+%7C+Node.js;Building+AI-Powered+%26+Real-World+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Mohanram+%F0%9F%91%8B;Full-Stack+Web+%2B+Mobile+Developer;Java+%7C+React.js+%7C+Flutter+%7C+Node.js;Building+AI-Powered+%26+Real-World+Apps)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,46 +12,31 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="coding gif"/>
+</div>
 
-```java
-public class Mohanram {
+<br/>
 
-    String name        = "Mohanram M";
-    String location    = "Chennai, Tamil Nadu, India";
-    String degree      = "B.E. CSE (2026)";
-    String college     = "Erode Sengunthar Engg College";
-    float  cgpa        = 7.6f;
+<div align="center">
 
-    String[] stack = {
-        "Java", "JavaScript", "Python",
-        "React.js", "Node.js", "Flutter", "Flask",
-        "MySQL", "Firebase"
-    };
+🎓 &nbsp;**B.E. Computer Science & Engineering** @ Erode Sengunthar Engineering College (2026) &nbsp;|&nbsp; CGPA: **7.6**
 
-    String[] currentlyLearning = {
-        "System Design", "Docker & DevOps",
-        "AI/ML Integration", "Cloud Platforms"
-    };
+📍 &nbsp;Chennai, Tamil Nadu, India
 
-    String funFact =
-        "I turn plain text into AI videos 🎬";
+💼 &nbsp;Web Development Intern @ **Least Action Company** &amp; **Pinnacle Labs**
 
-    String motto() {
-        return "Build things that matter." +
-               " Ship things that work.";
-    }
-}
-```
+🚀 &nbsp;Passionate about **Full-Stack Web**, **Mobile App**, and **AI-powered** applications
 
-</td>
-<td valign="top" width="45%" align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340"/>
-</td>
-</tr>
-</table>
+🌱 &nbsp;Currently learning **System Design**, **Docker**, **Cloud Platforms** &amp; **AI/ML Integration**
+
+⚡ &nbsp;Fun fact: I turn plain text into AI-generated videos 🎬
+
+💬 &nbsp;Ask me about **React.js**, **Flutter**, **Node.js**, **Firebase**, or **Java**
+
+📫 &nbsp;Reach me at **mohanramm927@gmail.com**
+
+</div>
 
 ---
 
@@ -236,5 +221,5 @@ public class Mohanram {
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
 </div>
