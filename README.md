@@ -1,19 +1,25 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohanram%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20%26%20Mobile%20App%20Developer%20%7C%20Building%20Efficient%2C%20User-Friendly%20Apps&descAlignY=62&descSize=16" width="100%" alt="header"/>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohanram+M" alt="Mohanram M"/>
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=BF91F3&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Web+%2B+Mobile+App+Developer;Java+%7C+React.js+%7C+Flutter+%7C+Node.js;Building+AI-Powered+%26+Real-World+Apps+%F0%9F%9A%80" alt="subtitle"/>
+</h3>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Mohanram+%F0%9F%91%8B;Full-Stack+Web+%2B+Mobile+Developer;Java+%7C+React.js+%7C+Flutter+%7C+Node.js;Building+AI-Powered+%26+Real-World+Apps)](https://git.io/typing-svg)
-
+  <img src="https://komarev.com/ghpvc/?username=Mohan6382&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Mohan6382?label=Followers&style=flat-square&color=bf91f3&labelColor=0d1117" alt="Followers"/>
 </div>
+
+<br/>
 
 ---
 
 ## 👨‍💻 About Me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="coding gif"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="coding gif"/>
 </div>
 
 <br/>
@@ -216,10 +222,8 @@
 
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohan6382&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+%F0%9F%99%8F;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80" alt="footer text"/>
 </div>
